@@ -17,6 +17,9 @@ export default function About({ title, stack }: AboutProps) {
         <Link href="/about" className="navLink active">
           About
         </Link>
+        <Link href="/message" className="navLink">
+          Message
+        </Link>
       </nav>
 
       <section className="panel">
