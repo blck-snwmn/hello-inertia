@@ -5,7 +5,7 @@
     "": {
       "name": "hello-inertia",
       "dependencies": {
-        "@hono/inertia": "^0.2.0",
+        "@hono/inertia": "^0.7.0",
         "@inertiajs/react": "^2.0.0",
         "@vitejs/plugin-react": "^5.0.0",
         "hono": "^4.0.0",
@@ -112,7 +112,7 @@
 
     "@esbuild/win32-x64": ["@esbuild/win32-x64@0.27.7", "", { "os": "win32", "cpu": "x64" }, "sha512-56hiAJPhwQ1R4i+21FVF7V8kSD5zZTdHcVuRFMW0hn753vVfQN8xlx4uOPT4xoGH0Z/oVATuR82AiqSTDIpaHg=="],
 
-    "@hono/inertia": ["@hono/inertia@0.2.0", "", { "peerDependencies": { "hono": ">=4.0.0", "vite": ">=5.0.0" }, "optionalPeers": ["vite"] }, "sha512-pqwHs/lHQYlUPRxOx3OWwx6XKAQ4xKMcYWhB/fEg8Pef5gR+qO7jJkDnnR1bqsJa2Z0xP8Es4xjhZk1/gz2ZEA=="],
+    "@hono/inertia": ["@hono/inertia@0.7.0", "", { "peerDependencies": { "hono": ">=4.0.0", "vite": ">=5.0.0" }, "optionalPeers": ["vite"] }, "sha512-gt8ozy+MDDOLJRwev9N4d91AoYC729V/QSf7MEtZpc8pXHDHG30G2onm0vFMwA3heO5DAlPmnRSYDR1JqXBPaw=="],
 
     "@inertiajs/core": ["@inertiajs/core@2.3.21", "", { "dependencies": { "@types/lodash-es": "^4.17.12", "axios": "^1.13.5", "laravel-precognition": "^1.0.2", "lodash-es": "^4.18.1", "qs": "^6.15.0" } }, "sha512-grHSCUiWDBWqpRxaobyxUJu0FV6HLkkuJwvoNLVkHwkexLvoaLhb9BmtoQydlIYL5pk2O3jcKaGtWJ83JwTB4A=="],
 
