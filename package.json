@@ -1,6 +1,7 @@
 {
   "name": "hello-inertia",
   "private": true,
+  "packageManager": "bun@1.3.14",
   "type": "module",
   "scripts": {
     "dev": "bun run dev:server & bun run dev:client",
